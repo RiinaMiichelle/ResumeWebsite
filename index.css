@@ -1,0 +1,76 @@
+
+/* Bio - About */
+.bio-about-section {
+  font-size: 30px;
+  border: solid 1px red;
+  text-align: center;
+}
+
+/* Projects */
+.projects-area {
+  border: solid 1px red;
+}
+
+.projects-header {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.projects {
+
+}
+
+.card {
+  width: 350px; 
+  height: 450px;
+  border: solid black 1px;
+  margin: 10px;
+}
+
+
+/* Relevant Skills */
+.relevant-skills {
+  border: solid 1px black;
+  text-align: center;
+}
+
+.relevant-skills-header {
+  border: solid 1px red;
+  text-align: center;
+}
+
+.relevant-skills-list {
+  border: solid 1px red;
+  align-items: center;
+}
+
+
+/* Contact and social media */
+.contact-information {
+  border: solid 1px red;
+  align-items: center;
+  text-align: center;
+}
+
+/* Education */
+.education {
+  border: solid 1px red;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Personal Photo */
+.self-image {
+  border: solid 1px red;
+  text-align: center;
+}
+
+/* Downloadable Resume */
+.downloadable-resume {
+  border: solid 1px red;
+  text-align: center;
+}
+
+
+
